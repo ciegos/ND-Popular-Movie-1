@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="true">Popular movies</string>
+
+    <string name="change_itemtype" translatable="true">Sort items by</string>
+
+    <string name="movie_releasedate_label" translatable="true">Release date</string>
+    <string name="movie_synopsis_label" translatable="true">Synopsis</string>
+    <string name="error_message" translatable="true">There was an error while trying to retrieve the list of movies</string>
+
+    <string name="movielist_poster_content">Movie poster for: %1$s</string>
+
+    <array name="search_type" translatable="true">
+        <item>Popular movies</item>
+        <item>Top Rated</item>
+    </array>
+</resources>
